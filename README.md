@@ -73,9 +73,7 @@ ZED_FRONTEND/
 ```
 
 ## Contributors
-*   **Vedant Poman** - *Lead Developer*
-*   [Add Teammate Name]
-*   [Add Teammate Name]
+*   **krrish Kothari ** 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
